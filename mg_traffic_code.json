@@ -1,7 +1,19 @@
 [
    {
-      "Permis_A":{
-         "definition":""
+      "code_de_la_route": {
+         "definition": "Ny « code de la route » dia fitambaran’ireo lamina sy fitsipika ampiarin’izay mpampiasa ny arabe mba hisoroana ny loza, mba tsy andaniana fotoana, mba tsy hanelingelenana ny hafa ary mba hampirindra tsara ny fifamohivoizana ",
+         "meta": {
+            "Signalisations_routieres": {
+               "0": "Police",
+               "1": "Feux tricolores",
+               "2": "Panneaux",
+               "3": "Marquages au sol"
+            }
+         }
+      },
+
+      "Permis_A": {
+         "definition": "Ny permis A dia taratasy fahazoandalana omen'ny <CIM> ahafahana mitondra fiara kodiarana roa misy motera MOTO manana tanjaka mihoatran'ny 125cc ary olona +16 no afaka mahazo azy, ny permis A dia maharitra."
       }
    }
 ]
