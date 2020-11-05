@@ -1,19 +1,38 @@
 [
-   {
-      "code_de_la_route": {
-         "definition": "Ny « code de la route » dia fitambaran’ireo lamina sy fitsipika ampiarin’izay mpampiasa ny arabe mba hisoroana ny loza, mba tsy andaniana fotoana, mba tsy hanelingelenana ny hafa ary mba hampirindra tsara ny fifamohivoizana ",
-         "meta": {
-            "Signalisations_routieres": {
-               "0": "Police",
-               "1": "Feux tricolores",
-               "2": "Panneaux",
-               "3": "Marquages au sol"
+  {
+    "code_de_la_route": {
+      "definition": "Ny « code de la route » dia fitambaran’ireo lamina sy fitsipika ampiarin’izay mpampiasa ny arabe mba hisoroana ny loza, mba tsy andaniana fotoana, mba tsy hanelingelenana ny hafa ary mba hampirindra tsara ny fifamohivoizana ",
+      "meta": {
+        "Signalisations_routieres": {
+          "Police": {
+            "Ny asany": {
+              "0": "Manoro sy mampilaza ny mpampiasa ny lalana",
+              "1": "Mandamina ny fifamohivoizana",
+              "2": "Misava ny taratasin’ny fiara sy ny mpandeha",
+              "3 ": "Manasazy raha ilaina",
+              "4": "Manao « Constat » rehefa misy loza ary mikarakara ny famonjena ny maratra"
+            },
+            "Fihetsiky ny polisy" : {
+              "0" : "Polisy hita miamboha na manatrika : Mijanona tanteraka ",
+              "1" : "Polisy hita miorirana : Mahazo mandeha",
+              "2" : "Polisy manodikodina ny tanany havanana: Mandeha mafimafy",
+              "3" : "Polisy manangana ny tanany havanana: Mampitandrina fa hiainga na hijanona ",
+              "4" : "Polisy manangana ny tanany havanana ary ny tanany havia manondro any ankavanan’ny mpamily: Mijanona fa hisy fisavana",
+              "5" : "Polisy mampiakatra sy mampidina ny tanany: Mandeha moramora"
             }
-         }
-      },
-
-      "Permis_A": {
-         "definition": "Ny permis A dia taratasy fahazoandalana omen'ny <CIM> ahafahana mitondra fiara kodiarana roa misy motera MOTO manana tanjaka mihoatran'ny 125cc ary olona +16 no afaka mahazo azy, ny permis A dia maharitra."
+          },
+          "NY JIRO TELO LOKO" : {
+            "Ny asany" : {
+              "0" : " fitaovana entina andrindrana sy andaminana ny fifamohivoizana"
+            }
+          },
+          "2": "Panneaux",
+          "3": "Marquages au sol"
+        }
       }
-   }
+    },
+    "Permis_A": {
+      "definition": "Ny permis A dia taratasy fahazoandalana omen'ny <CIM> ahafahana mitondra fiara kodiarana roa misy motera MOTO manana tanjaka mihoatran'ny 125cc ary olona +16 no afaka mahazo azy, ny permis A dia maharitra."
+    }
+  }
 ]
