@@ -5,29 +5,98 @@
       "meta": {
         "Signalisations_routieres": {
           "Police": {
-            "Ny asany": {
+            "utilities": {
               "0": "Manoro sy mampilaza ny mpampiasa ny lalana",
               "1": "Mandamina ny fifamohivoizana",
               "2": "Misava ny taratasin’ny fiara sy ny mpandeha",
               "3 ": "Manasazy raha ilaina",
               "4": "Manao « Constat » rehefa misy loza ary mikarakara ny famonjena ny maratra"
             },
-            "Fihetsiky ny polisy" : {
+            "roles" : {
               "0" : "Polisy hita miamboha na manatrika : Mijanona tanteraka ",
               "1" : "Polisy hita miorirana : Mahazo mandeha",
               "2" : "Polisy manodikodina ny tanany havanana: Mandeha mafimafy",
               "3" : "Polisy manangana ny tanany havanana: Mampitandrina fa hiainga na hijanona ",
               "4" : "Polisy manangana ny tanany havanana ary ny tanany havia manondro any ankavanan’ny mpamily: Mijanona fa hisy fisavana",
               "5" : "Polisy mampiakatra sy mampidina ny tanany: Mandeha moramora"
-            }
+            },
+            "karazany" : {}
           },
           "NY JIRO TELO LOKO" : {
-            "Ny asany" : {
+            "utilities" : {
               "0" : " fitaovana entina andrindrana sy andaminana ny fifamohivoizana"
+            },
+            "roles" : {
+              "Mena" : "3 - 5min => Mijanona tanteraka",
+              "Mavo" : "3 - 5 sec => Mandeha aingana na mijanona tanteraka",
+              "Maitso" : "3 - 5min => Mahazo mandeha avy hatrany" 
+            },
+            "karazany" : {
+              "Jiro mavo mipipika" : "Ny jiro mavo mipipika dia manambara fa tsy mirehitra ny Maintso sy ny Mena ary mety mampidy doza ka tokony hitandrina. Raha eo amin’ny sapanan-dalana izy no hita dia izay avy eo an-kavanan-dalana no mandeha aloha raha tsy misy famantarana hafa.",
+              "Ny jiro faha- efatra na ny jiro mpanapy" : "Ny feu « secondaire » dia jiro « Fléche » Maintso manondro miankavanana izay miaraka mirehitra amin’ny jiro mena izay midika fa na Mena aza ny jiro dia mahazo mandeha raha hivily miankavanana fa mbola manaja ny mpandeha an-tongotra sy ny fiara avy any an-kavia.",
+              "Jiro ho an’ny mpiampita" : {
+                  "Olona kely maintso" : "Mahazo miampita",
+                  "Olona kely mena" : "Tsy mahazo miampita",
+                  "Olona kely maintso mipipika" : "Miampita aingana",
+                  "Olona kely mena mipipika" : "Mihomana hiampita"
+              },
+              "Jiro mpamerina" : "Jiro mitovy amin’ilay jiro voalohany ihany sainga kely. Natokana izy ho an’ilay fiara mijanona voalohany eo amin’ny ilay sapanan-dalana."
             }
           },
-          "2": "Panneaux",
-          "3": "Marquages au sol"
+          "Takelaby" : {
+            "utilities" : {
+              "0" : "Fitaovana entina andrindrana sy andaminana ny fifamoivoizana"
+            },
+            "roles": {
+              "Telo zoro" : "Milaza zavatra mampidin- doza",
+              "Boribory" : "Fandrarana",
+              "Efamira" : "Fanambarana zavatra tsotra"
+            },
+            "karazany" : {
+              "Telo zoro mena sisiny ary fotsy anatiny" : {
+                "dikany" : "Mampidi-doza",
+                "fipetrany" : "Mipetraka 150m raha ivelan'ny tanàna ary 50m raha anaty tanàna",
+                "fitandremana" : {
+                  "0" : "Mandeha mora",
+                  "1" : "Manery tsara ny sisiny",
+                  "2" : "Tsy misongona",
+                  "3" : "Tsy mijanona",
+                  "4" : "Mampaneno anjomara amin'ny atoandro ary jiro code-phare mifanesy amin'ny alina"
+                }
+              },
+              "Boribory mena ny sisiny ary fotsy anatiny" : {
+                "dikany" : "Mandrara",
+                "fipetrany" : "Ny fandrarana miatomboka eo amin’ny fahitana ny takela-by ary mifarana eo amin’ny sapanan-dalana manaraka voalohany ,na eo amin’ny takela-by mamarana ny fandrarana. Raha tsy misy ireo dia mifarana ny fandrarana rehefa afaka 30m."
+              },
+              "Boribory manga misy soratra fotsy": {
+                "dikany" : "Mandidy"
+              },
+              "Endrika filesy": {
+                "dikany" : "Manodro zavatra" 
+              },
+              "Mavo" : {
+                "dikany" : "Takela-by vonjimaika"
+              }
+            }
+          },
+          "Marquage au sol" : {
+            "utilities" : {
+              "0" : "Fandaminana ny fifamoivoizana mipetraka eny amin'ny tany"
+            },
+            "roles": {},
+            "karazany": {
+              "Tsipika mitohy" : "Tsy azo atao ny manapaka, misabaka, misongona, mijanona eo amin’ny toerana ahitana io tsipika io.",
+              "Ny tsipika mitapatapaka" : {
+                "fizaran-dalana tsotra": "3m feno ary 3m banga raha anaty tanàna, 3m feno ary 10m banga raha ivelan'ny tanàna",
+                "Ligne de rive" : "Tsipika mitohy na mitapatapaka mametra ny arabe azon'ny fiara ampiasaina, raha tsipika mitohy ny sisiny akavia dia lalana tsy azo ifanenana ny lalana.",
+                "Ligne mixte" : "Dia tsipika mitohy miaraka amin’ny tsipika mitapatapaka, 3m feno – 3m banga",
+                "Ligne d'avertissement" : "Tsipika mitapaka mialoha tsipika mitohy, manambara fa tsy azo atao intsony ny misongona fiara; ary milaza fa hiditra toerana mety ampidi-doza, 3m feno – 1,5m banga",
+                "Ligne d'arret d'urgence" : "Toerana natao hijonana vonjy maika ho an’ny fiara manana olana ara-tekinika. Azo ijanonana fa tsy azo hiantsonana ho an’ny fiara hafa."
+              },
+              "Ny toerana fiampitan’ny mpandeha an-tongotra" : "Natokana ho an’ny mpandeha an-tongotra miampita (miloko fotsy) : Tsy azo atao ny mijanona na miantsona eo amboniny, Tsy azo atao ny misongona eo amboniny, Rehefa misy fitohanana dia avela malalaka izy.",
+              "Juggle-barré" : "Tsipika miendrika nifi-tsofa natokana hijanonan’ny fiara fitateran’olona, tsy azo hijanonana sy hiantsonana ho an’ny fiara hafa, Azo atao ny mandehanana na mandalo eo amboniny."
+            }
+          }
         }
       }
     },
