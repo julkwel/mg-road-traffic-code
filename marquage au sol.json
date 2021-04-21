@@ -1,0 +1,116 @@
+{
+	"titre": "Ny « marquage au sol »",
+	"image": "https://www.francenetinfos.com/wp-content/uploads/2015/10/signalisation.jpg",
+	"description": "Ny « marquage au sol » dia izay rehetra mandamina ny fifamoivoizana eny amin’ny tany.",
+	"genre": [
+		{
+			"titre": "Route",
+			"description": "Ny fitambaran’ny lalana azo famezivezen’ny rehetra."
+		},
+		{
+			"titre": "Ny « voie matérialisée »",
+			"description": "Izy dia lalana voazaran’ny tsipika mitohy na mitapatapaka."
+		}
+	],
+	"liste": [
+		{
+			"titre": "Ny tsipika mitohy",
+			"image": "https://s.avostart.fr/cms/2020/07/scenic-view-of-the-field-from-the-road-764293-REDI-775x500.jpg",
+			"description": "Tsy azo atao ny manapaka, misabaka, misongona, mijanona eo amin’ny toerana ahitana io tsipika io."
+		},
+		{
+			"titre": "Ny tsipika mitapatapaka",
+			"image": "https://www.virages.com/Images/Blog/Ligne-Axiale-Route.jpg",
+			"description": "Misy dimy (5) ny karazana tsipika mitapatapka",
+			"liste": [
+				{
+					"titre": "Ny fizaran-dalana tsotra",
+					"consigne": [
+						"3m feno – 3m banga: an-tanàna",
+						"3m feno – 10m banga : ivelan’ny tanàna"
+					]
+				},
+				{
+					"titre": "Ligne de rive",
+					"image": "https://evs-profilepics.s3.amazonaws.com/production/cdr/images/attachments/000/005/605/original/0062cG.jpg?1543304784",
+					"description": "Dia tsipika mitohy na mitapatapaka mametra ny arabe azon’ny fiara ampiasaina. Raha tsipika mitohy ny sisiny akavia dia lalana tsy azo ifanenana ny lalana."
+				},
+				{
+					"titre": "Ligne mixte",
+					"image": "https://images.prismic.io/ornikar/ed303c6ba2ca2e41645400c7b38aba309a0e3cf3_double-ligne-continue.jpg?auto=compress,format",
+					"description": "Dia tsipika mitohy miaraka amin’ny tsipika mitapatapaka: 3m feno – 3m banga"
+				},
+				{
+					"titre": "Ligne d'averstissement",
+					"image": "https://lh3.googleusercontent.com/proxy/TqDkUzdCDKxLFCM9ou0DY9_Pja7SfRCYDeIb8U682MAlevCrq3u0p8QkJorwrV4qo7sU9MboK02Akss0vaJeG5wa0R3wb4m1VQcOyRjO9p1hce_glej8E292VHI_tneYGheYd4j0G3_40UVc4ccK7llny7I1RAI6J0P8_hB1hXy4JUWkVexYpVerqp4waekR1xSEfc3RXtr7zvJzaatbxb_dlKonNstheZHG_6i8sZ6KXnoDO6C8bQWp9D09",
+					"description": "Dia tsipika mitapaka mialoha tsipika mitohy. Manambara fa tsy azo atao intsony ny misongona fiara; arymilaza fa hiditra toerana mety ampidi-doza: 3m feno – 1,5m banga"
+				},
+				{
+					"titre": "Ligne d'arrêt d'urgence",
+					"image": "https://www.atmb.com/sites/default/files/edito/voies-circulation_autoroute.jpg",
+					"description": "Toerana natao hijonana vonjy maika ho an’ny fiara manana olana ara-tekinika. Azo ijanonana fa tsy azo hiantsonana ho an’ny fiara hafa."
+				}
+			]
+		},
+		{
+			"titre": "Ny toerana fiampitan’ny mpandeha an-tongotra ",
+			"image": "https://lh3.googleusercontent.com/proxy/od2h0k_GJGOi48pijhJR0OxrhgUqMpQ8NrTUjMrEZ_R5KPhZb6y4O_WdIMFd7QDs_V595L38_bDkESS3FsReaeZNejYnwrAFdBiSImno_4tPXQQz3fa930vFU12S4LQEn7XngbcK1Ci0pTFidzrY4Qcmeoc",
+			"description": "Natokana ho an’ny mpandeha an-tongotra miampita (miloko fotsy).",
+			"consigne": [
+				"Tsy azo atao ny mijanona na miantsona eo amboniny.",
+				"Tsy azo atao ny misongona eo amboniny.",
+				"Rehefa misy fitohanana dia avela malalaka izy."
+			]
+		},
+		{
+			"titre": "Juggle-barré",
+			"description": "Tsipika miendrika nifi-tsofa natokana hijanonan’ny fiara fitateran’olona.",
+			"consigne": [
+				"Tsy azo hijanonana sy hiantsonana ho an’ny fiara  hafa.",
+				"Azo atao ny mandehanana na mandalo eo amboniny."
+			]
+		},
+		{
+			"titre": "Ny karazana bandy fotsy",
+			"image": "https://images.prismic.io/ornikar/2df07f97d0151800b9b9d7125f0dbd06a3c56aed_ligne-blanche-discontinue.png?auto=compress,format",
+			"type": [
+				"10 cm - 15 cm: Limite d’arrêt",
+				"25 cm: Céder la priorité",
+				"50 cm : Stop"
+			]
+		},
+		{
+			"titre": "Bande de cérame",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/51nS35ZWKeL._AC_.jpg",
+			"description": "Ny bande de cérame dia trotoire miloko",
+			"type": [
+				{
+					"consigne": "Ny trottoir miloko mena sy fotsy dia tsy azo ijanonana."
+				},
+				{
+					"consigne": "Ny trottoir miloka mavo sy fotsy dia fijanonana voatokana ho an’izay olona nampandoko azy ihany."
+				}
+			]
+		},
+		{
+			"titre": "Flèche directionnelle",
+			"image": "https://www.virages.com/Images/Blog/Fleches-Directionnelles-740px.jpg",
+			"description": "Filesy misoratra amin’ny tany izay manondro sy mandidy  ny lalana tokony ho raisina. Tsy maintsy arahina izay tondrony. Ary mipetraka eo afovoan’ny arabe izy.",
+			"remarque": "Raha mizara roa na telo ilay lalana dia eny afovoan’ny fizarana tsirairay no misy azy.",
+			"type": [
+				{ "titre": "Avertissement" },
+				{ "titre": "Rappel" },
+				{ "titre": "Dissuasion" }
+			]
+		},
+		{
+			"titre": "Flèche de rabattement",
+			"image": "https://images.prismic.io/ornikar/8aa922aa195845eb947dca137b5d36d88430b05e_fleches-directions-blanches.jpg?auto=compress,format",
+			"description": "Filesy somary miolaka izay. Tsy maintsy mifindra any amin’ny ilany izay tondroiny.",
+			"consigne": [
+				"Mihatery na  fohanana ny lalana iray",
+				"Mampilaza fa hisy tsipika mitohy"
+			]
+		}
+	]
+}

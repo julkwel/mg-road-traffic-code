@@ -1,0 +1,22 @@
+{
+	"titre": "Ny ILOT",
+	"type": [
+		{
+			"titre": "Ny « Ilôt separateur »",
+			"image": "https://lh3.googleusercontent.com/proxy/e1erWCvpgwVAhAZGZ6qyzm-qLSl-KMejfj1ZNZ2EgrIMtJrq2ZV7Jz6FLoozdbplhWAzmdQnzNjX43O-3f_-mjhWc5Bc2ylPce7GUBfYB694E82rireuK3Q0y_nlVVpwMiU-",
+			"description": "Tsy azo anaovana demi-tour raha toa ka kely ny sakan’ilay « ilôt » mihoatra amin’ny alavan’ny fiara."
+		},
+		{
+			"titre": "Ny « Ilôt Zebre »",
+			"description": "Azo anaovana demi-tour satria malalaka tsara."
+		},
+		{
+			"titre": "Ny « Ilôt directionnel »",
+			"description": "Dia « ilôt » miendrika telo zoro hita eny amin’ny Sapanan-dalana miendrika « Y »."
+		},
+		{
+			"titre": "Ny « Ilôt directionnel zébra »",
+			"description": "Dia toy ny « ilôt directionnel » saingy miloko tsipitsipika fotsy."
+		}
+	]
+}

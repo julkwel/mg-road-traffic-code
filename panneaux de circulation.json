@@ -1,0 +1,51 @@
+{
+	"titre": "Ny takelaby",
+	"image": "https://images.prismic.io/ornikar/86a6a45d2404b2694e9a3e172ab2f7ce88d9775b_panneaux-signalisation-verticale.png?auto=compress,format",
+	"description": "Misy karazany maro ny takela-by arakaraka ny bikany.",
+	"remarque": {
+		"titre": "Milaza takela-by vonjimaika ilay takelaby rehefa miloko « mavo »",
+		"image": "https://i.pinimg.com/originals/fb/9d/aa/fb9daaddffbe92c8f64abafb57a07545.gif"
+	},
+	"liste": [
+		{
+			"titre": "Telo zoro",
+			"image": "https://images.prismic.io/ornikar/ba1b4040a56c34b887119a1902df51de5d5c310e_panneau-triangle.png?auto=compress,format",
+			"description": "Ny takela-by telo zoro dia milaza zavatra mampidin-doza. Mena ny sisiny ary fotsy ny atiny. Mipetraka 150m raha ivelan’ny tanana, 50m raha anaty tanana",
+			"consigne": [
+				"Mandeha mora",
+				"Manery tsara ny sisiny",
+				"Tsy misongona",
+				"Tsy mijanona",
+				"Mampaneno anjomara amin’ny atoandro ary jiro « code-phare » mifanesy amin’ny alina."
+			]
+		},
+		{
+			"titre": "Boribory",
+			"image": "https://docplayer.fr/docs-images/49/20384446/images/page_5.jpg",
+			"description": "Ny takela-by boribory dia misy karazany roa.",
+			"liste": [
+				{
+					"titre": "Mandrara",
+					"image": "https://static.vecteezy.com/ti/vecteur-libre/p1/1447183-panneau-de-signalisation-circulaire-rouge-gratuit-vectoriel.jpg",
+					"description": "Mena ny sisiny ary fotsy ny atiny.",
+					"consigne": "Ny fandrarana miatomboka eo amin’ny fahitana ny takela-by ary mifarana eo amin’ny sapanan-dalana manaraka voalohany, na eo amin’ny takela-by mamarana ny fandrarana. Raha tsy misy ireo dia mifarana ny fandrarana rehefa afaka 30m."
+				},
+				{
+					"titre": "Mandidy",
+					"image": "https://www.anirom.com/panneaux/obligation.png",
+					"description": "Lokony: manga misy soratra fotsy"
+				}
+			]
+		},
+		{
+			"titre": "Efamira na mahitsy zoro",
+			"image": "https://codedelaroute.io/blog/content/images/2018/11/Capture-d-e-cran-2018-11-22-a--18.30.27.png",
+			"description": "Manambàra zavatra tsotra."
+		},
+		{
+			"titre": "Tondro-zavatra",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVBHsHGVj4PAKYqi1wJrq2H31PMaqnzlNJXw&usqp=CAU",
+			"description": "Milaza tondro zavatra ilay takela-by raha toa ka manana endrika filesy."
+		}
+	]
+}

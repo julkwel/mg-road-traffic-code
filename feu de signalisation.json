@@ -1,0 +1,70 @@
+{
+	"titre": "Ny jiro telo loko",
+	"image": "https://img.archiexpo.fr/images_ae/photo-g/11072-11797020.jpg",
+	"description": "Izy dia fitaovana entina andrindrana sy andaminana ny fifamohivoizana.",
+	"liste": [
+		{
+			"titre": "Jiro voalohany",
+			"liste": [
+				{
+					"titre": "Jiro mena",
+					"image": "https://www.euro-assurance.com/sites/default/files/styles/editorial_page__field_ed_image__full/public/feu_rouge_crop.jpg?itok=8FRA10qV",
+					"description": "Mijanona tanteraka",
+					"duree": "3 - 5 minitra"
+				},
+				{
+					"titre": "Jiro mavo",
+					"image": "https://images.prismic.io/ornikar/c0436629d65d1f14365812bbcc6a1e0d3853eee3_feu-orange-parking.jpg?auto=compress,format",
+					"description": "Mandeha aingana na mijanona tanteraka",
+					"duree": "3 - 5 segondra"
+				},
+				{
+					"titre": "Jiro maitso",
+					"image": "https://lavimiyo.mondoblog.org/files/2013/03/Feu-vert-1-e1364564773930.jpg",
+					"description": "Mahazo mandeha avy atrany",
+					"duree": "3 - 5 minitra"
+				}
+			]
+		},
+		{
+			"titre": "Jiro mavo mipipika",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzKCQGa2GRqLn82ntNhoup5NCwfQXfvJE8Fg&usqp=CAU",
+			"description": "Ny jiro mavo mipipika dia manambara fa tsy mirehitra ny Maintso sy ny Mena ary mety mampidy doza ka tokony hitandrina. Raha eo amin’ny sapanan-dalana izy no hita dia izay avy eo an-kavanan-dalana no mandeha aloha raha tsy misy famantarana hafa."
+		},
+		{
+			"titre": "Ny jiro faha-efatra na ny jiro mpanapy",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Chine_vert-partiel.JPG/170px-Chine_vert-partiel.JPG",
+			"description": "Ny feu « secondaire » dia jiro « Fléche » Maintso  manondro miankavanana izay miaraka mirehitra amin’ny jiro  mena izay midika fa na Mena aza ny jiro dia mahazo mandeha raha hivily miankavanana fa mbola manaja  ny mpandeha an-tongotra sy ny fiara avy any an-kavia."
+		},
+		{
+			"titre": "Feu piéton",
+			"description": "Jiro fampilazàna ho an'ny mpandeha tongotra",
+			"liste": [
+				{
+					"titre": "Olona kely maitso",
+					"image": "https://lh3.googleusercontent.com/proxy/ZoMfqc8VWjh0XX8IgztF9IWyzx_YaNGv4Ik-PpWmyEqVW-KthxjZLWUs5vCCGuqHPV3WvwDFqmSR5t6-C4qFzvpoKOKBL9N5unB3FJNeMjX8EMo9z0AOJR6pdRzlRh_BpvJTxg9XQayvZbSgaic",
+					"description": "Mahazo miampita"
+				},
+				{
+					"titre": "Olona kely mena",
+					"image": "https://images.caradisiac.com/logos/4/5/2/1/244521/S0-un-pv-de-4-eur-pour-avoir-traverse-au-feu-rouge-165880.jpg",
+					"description": "Tsy mahazo miampita"
+				},
+				{
+					"titre": "Olona kely maitso mipipika",
+					"image": "https://lh3.googleusercontent.com/proxy/ZoMfqc8VWjh0XX8IgztF9IWyzx_YaNGv4Ik-PpWmyEqVW-KthxjZLWUs5vCCGuqHPV3WvwDFqmSR5t6-C4qFzvpoKOKBL9N5unB3FJNeMjX8EMo9z0AOJR6pdRzlRh_BpvJTxg9XQayvZbSgaic",
+					"description": "Mpiampita haingana"
+				},
+				{
+					"titre": "Olona kely mena mipipika",
+					"image": "https://images.caradisiac.com/logos/4/5/2/1/244521/S0-un-pv-de-4-eur-pour-avoir-traverse-au-feu-rouge-165880.jpg",
+					"description": "Miomana hiampita"
+				}
+			]
+		},
+		{
+			"titre": "Jiro mpamerina",
+			"description": "Jiro mitovy amin’ilay jiro voalohany ihany sainga kely. Natokana izy ho an’ilay fiara mijanona voalohany eo amin’ny ilay sapanan-dalana."
+		}
+	]
+}
