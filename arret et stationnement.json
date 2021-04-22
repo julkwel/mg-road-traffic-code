@@ -1,0 +1,196 @@
+{
+	"image": "https://images.prismic.io/ornikar/ec20b181ec2cbf3cd17db11174bf049d29ef0340_schema-stationnement.png?auto=compress,format",
+	"description": [
+		{
+			"titre": "Mijanona (arrêt)",
+			"description": "Midika fa tsy mihetsika mandritra ny fotoana fohy ny fiara, tsy mihotra ny 2mn ary tsy mamono motera .Tokony tsy hiala lavitra ny mpamily mba anakisaka ny fiara aingana raha ilaina."
+		},
+		{
+			"titre": "Miantsona (stationnement)",
+			"description": "Tsy mietsika tanteraka ny fiara. Maharitra ny fiantsonana ary maty ny motera. Afaka mandao ny fiara ny mpamily."
+		}
+	],
+	"remarque": [
+		{
+			"titre": "Fanamarihana",
+			"description": [
+				"Amin’ny ilany misy ny takelaby no tsy azo ijanonana.",
+				"Tsy azo atao ny mijanona eny ambony « trottoir » fa mijanona eo ambony arabe.",
+				"Azo atao ny mijanona amin’ny ilany tsy misy fandrarana raha tsy manelingelina.",
+				"8m – 10m alohan’ny takelaby no mahazo mijanona.",
+				"Tsy azo atao ny fiantsonana sy fijanonana rehefa manelingelina na mety ampidi-doza."
+			]
+		},
+		{
+			"titre": "Mampidy doza",
+			"description": [
+				"Eny amin’ny takelaby mandrara",
+				"Manakaiky sapanan-dalana",
+				"Manakaiky fiolàhana",
+				"Mankaiky lalamby",
+				"Eny amin’ny toerana maizimaizina",
+				"Rehefa misy takelaby manabara loza"
+			]
+		},
+		{
+			"titre": "Manelingelina",
+			"description": [
+				"Ambony «trottoir»",
+				"Eny amin’ny toerana voatokana(bus, taxi...)",
+				"Rehefa misy tsipika mitohy",
+				"Ambony toerana voatokana hiampitana",
+				"Alohan’ny trottoir miloko",
+				"Eny amin’ny lalana voatokana ho any bisikileta",
+				"Akaiky takelaby",
+				"Ambony tetezana sy anaty tonelina",
+				"Alohan’ny vavahady samihafa",
+				"Manakaiky fanaripako",
+				"Manakaiky loarano famonoana afo",
+				"Afovoan-dalana"
+			]
+		}
+	],
+	"consigne": [
+		{
+			"titre": "Ny Fomba fiantsonana",
+			"liste": [
+				{
+					"titre": "Ny « stantionnement en ligne » na « créneau »",
+					"description": "Milahatra mahitsy na manao « Créneau »."
+				},
+				{
+					"titre": "Ny « Stationnement en batailles »",
+					"description": "Marche AR  no hiditra ao."
+				},
+				{
+					"titre": "Ny « Stationnement en épi »",
+					"description": "Ny lohan’ny fiara no miditra voalohay"
+				}
+			]
+		},
+		{
+			"titre": "Raha hijanona amin’ny « sens unique »",
+			"description": [
+				"Jerena raha misy fandrarana",
+				"Jerena raha misy takelaby « stationner ici »",
+				"Mandefa jiro famatarana miankavia.",
+				"Mijery « retroviseur » sao efa misy misongona.",
+				"Mijanona amin’ny ilany ankavia mba anamorana ny fandehanana amin’ny ankavanana.",
+				"Avy any amin’ny « trottoir » no esorina ny mpandeha."
+			]
+		},
+		{
+			"titre": "Ny fomba fisongonana (Dépassement)",
+			"description": "Avy any amin’nyankavia no misongona",
+			"consigne": [
+				"Jerena sao misy fandrarana",
+				"Atao azo antoka fa manana hery hisongonana ny fiara",
+				"Jerena amin’ny « retroviseur » sao efa misy misongona",
+				"Jerena sao misy fiara mifanena",
+				"Jerena raha misy hitoerana ao alohan’ilay fiara avy nosongonana",
+				"Mandefa jiro famantarana",
+				"Mampilaza amin’ny anjomara na jiro «code - phare» amin’ny alina",
+				"Mampidina vitesy raha ilaina",
+				"Manitsaka mafy ny « accelerateur » dia manatotosa ny fisongonana",
+				"Mamela elanelana 50 cm",
+				"Tsy tonga dia manery avy hatrany ny sisiny havana fa atao izay ahitana ny sarin’ny fiara nosongonana ao anaty « rétroviseur » anatiny.",
+				"Rehefa hita ao ny sariny vao: mandefa jiro famantarana miankavanana",
+				"Manery tsikelikely ny sisiny havanana",
+				"Vonoina ny jiro famantarana",
+				"Tohizana ny dia"
+			]
+		},
+		{
+			"titre": "Rehefa songonana",
+			"description": [
+				"Manery tsara ny sisiny havanana",
+				"Tsy manova ny hafainganampandeha",
+				"Rehefa amin’ny alina dia manova « code » raha vao mandefa « phare » ilay misongona"
+			]
+		},
+		{
+			"titre": "Rahoviana no tsy mahazo misongona ?",
+			"description": [
+				"Rehefa mahita takelaby mandrara ny fisongonana",
+				"Rehefa misy tsipika mitohy",
+				"Avy any amin’ny an-kavanana",
+				"Eny amin’ny lalamby tsy misy mpiambina",
+				"Rehefa ratsy ny fahitana (avy orana, zavona,...)",
+				"Eny amin’ny sapanan-dalana ka tokony andefitra",
+				"Rehefa eo amin’ny toerana fahatelo",
+				"Rehefa songonana",
+				"Rehefa misy mifanena",
+				"Eny amin’ny takelaby milaza toerana mampidy doza"
+			]
+		},
+		{
+			"titre": "Ny litera A.O.D",
+			"description": "Soratra entin’ny fiara vaventy ao ahoriana.",
+			"consigne": [
+				{ "titre": "A", "description": "Fifandraisana amin’ny alalan’ny feo" },
+				{ "titre": "O", "description": "fifandraisana amin’ny alalan’ny jiro" },
+				{
+					"titre": "D",
+					"description": "mambara « DANGER » entin’ny fiara lehibe mahatratra 2,5m ny sakany."
+				}
+			]
+		},
+		{
+			"titre": "Azo atao ihany ny misongona eny",
+			"description": [
+				"An-tampompiakarana",
+				"Anaty tonelina",
+				"Eny amin’ny fiolahana raha misy tsipika mitohy manasaraka ny arabe ary ny ilany avanana dia voazaran’ny tsipika mitapatapaka.",
+				"Eny amin’ny sapanan-dalana raha manampahefana.",
+				"Eny amin’ny lalamby misy mpiambina raha tsy misy fandrarana"
+			]
+		},
+		{
+			"titre": "Azo atao ihany ny misongona avy any an-kavanana raha",
+			"description": [
+				"Mandefa jiro famantarana miandavia ary manery miakavia ka hivily miankavia ny fiara eo aloha.",
+				"Manaraka ny « flèches directionnelles » miankavia ny eo aloha.",
+				"Manaraka ny « flèches directionnelles » miankavana ianao."
+			]
+		},
+		{
+			"titre": "Ny tokony andefasana ny jiro famantarana",
+			"description": [
+				"25m mialoha raha an-tanana.",
+				"50m mialoha raha ivelan’ny tanana"
+			]
+		},
+		{
+			"titre": "Rahoviana no tokony andeha mora ?",
+			"description": [
+				{ "titre": "Rehefa mahita takalaby manena ny hafainganampandeha." },
+				{ "titre": "Rehefa anaty tanana : ≤ 50km/h 3éme ny vitesy." },
+				{ "titre": "Rehefa misy fitohanana na feno sakana ny arabe." },
+				{
+					"titre": "Rehefa misongona na mifanena amin’nyna andihan’olona, fiara mpitatira olona manala na mampiditra olona ary ny fiara tarihim-biby."
+				},
+				{
+					"titre": "Rehefa eny amin’ny loza samihafa",
+					"liste": [
+						"Sapanan-dalana",
+						"Fiolahana",
+						"Tapo-piakarana",
+						"Lalana mihatery",
+						"Lalamby",
+						"Tetezana",
+						"Fidinana mapidi-doza"
+					]
+				}
+			]
+		},
+		{
+			"titre": "Rahoviana no tokony hanery ny sisiny havanana ?",
+			"description": [
+				"Rehefa mifanena.",
+				"Rehefa eny amin’ny loza samihafa.",
+				"Rehefa hisy hisongona.",
+				"Rehefa ratsy na tsy ampy ny fahitana •Rehefa eny amin’ny sapanan-dalana ka tokony hivily mian-kavanana"
+			]
+		}
+	]
+}
